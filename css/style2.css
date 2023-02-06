@@ -1,0 +1,38 @@
+body {
+    background: #bcf6fe;
+}
+.container {
+    width: 700px;
+    border: 1px solid black;
+    margin: auto;
+    padding: 5px;
+    background-color: aliceblue;
+    text-align: justify;
+    font-size: 1.3rem;
+}
+
+
+img {
+    float: left;
+    margin: 8px;
+    width:300px;
+}
+
+
+
+/*.title {
+    text-align: center;
+    background: black;
+    color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+    font-size: 3rem;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 1rem;
+}
+
+.container.image {
+    height: 25rem;
+    width: 50%; 
+} */
